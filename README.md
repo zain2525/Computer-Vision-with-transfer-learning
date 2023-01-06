@@ -2,7 +2,7 @@
 
 
 # Food Vision 101™ 🍔👁
-## Transfer Learning With TenserFlow (Feature Extraction & Fine-Tuning):
+## Transfer Learning With TensorFlow (Feature Extraction & Fine-Tuning):
 
 ## What we're going to cover
 ### 1. Using Kaggel Datasets to download and explore data
